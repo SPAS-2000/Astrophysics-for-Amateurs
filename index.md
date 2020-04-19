@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Astrophysics for Amateurs
 
 You can use the [editor on GitHub](https://github.com/SPAS-2000/Astrophysics-for-Amateurs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
